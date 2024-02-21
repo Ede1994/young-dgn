@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Principal Investigators
           - Finance
-          - Grad Students
+          - Homepage
           - Administration
           - Visitors
           - Alumni
