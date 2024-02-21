@@ -4,7 +4,7 @@ title: Eric Einspaenner
 
 # Full Name (for SEO)
 first_name: Eric
-last_name: Einspänner
+last_name: Einspaenner
 
 # Is this the primary user of the site?
 superuser: true
