@@ -6,16 +6,16 @@
 main:
   - name: Home
     url: tour
-    weight: 0
+    weight: 10
   - name: News
     url: post
-    weight: 10
+    weight: 20
   - name: Team
     url: people
-    weight: 20
-  - name: Mentoring
-    url: people
     weight: 30
+  # - name: Mentoring
+  #   url: people
+  #   weight: 30
   - name: Events
     url: event
     weight: 40
