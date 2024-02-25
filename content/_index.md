@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        YoungDGN
       image:
-        filename: welcome.jpg
+        filename: nukmed22_01.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Die **YoungDGN** ist ein Arbeitskreis der Deutschen Gesellschaft für Nuklearmedizin e.V.. Wir sind ein Zusammenschluss junger Nukis und wir glühen für unser Fach! :-)
   
   - block: collection
     content:
