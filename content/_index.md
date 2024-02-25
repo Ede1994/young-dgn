@@ -1,25 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-02-21
+date: 2022-10-24
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        YoungDGN
-        Arbeitskreis der Deutschen Gesellschaft für Nuklearmedizin e.V.
+        Wowchemy
+        Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        Wir sind ein Zusammenschluss junger Nukis und wir glühen für unser Fach! :-)
-
-        Unsere Initiative entstand im Rahmen der von der DGN angestoßenen Task Force „Zukunft Nuklearmedizin“. Die Young DGN Initiative geht letztlich auf den vielfachen Wunsch nach der Gründung einer eigenen DGN-Nachwuchsorganisation zurück. Here we are!
-
-        Unsere Türen stehen ärztlichem Personal, Kolleginnen und Kollegen aus der Radiopharmazie, Medizinphysik sowie anderen assoziierten Naturwissenschaften, MTRs, Pflegenden, Studierenden und Auszubildenden offen.
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
