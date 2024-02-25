@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Willkommen bei der YoungDGN
+        content: Schaut Euch an, woran wir so arbeiten...
         align: center
         background:
           image:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Mentoring ☕️
+        content: 'Erfahrene Wissenschaftler die Ihr Wissen mit Euch teilen und gemeinsam neue spannende Themen entdecken!'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Ressorts
+        content: 'Wir brauchen stets Hilfe bei unseren Aufgaben, also helft uns gerne bei unseren Zielen ...'
         align: right
         background:
           image:
