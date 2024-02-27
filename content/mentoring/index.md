@@ -5,7 +5,7 @@ date: 2024-02-24
 type: landing
 
 sections:
-  - block: mentoring
+  - block: people
     content:
       title: Mentoring
       # Choose which groups/teams of users to display.
