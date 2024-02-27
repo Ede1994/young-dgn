@@ -10,7 +10,7 @@ last_name: Einspaenner
 superuser: true
 
 # Role/position
-role: Homepage
+role: Medizinphysiker (MPE)
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Meine Forschungsschwerpunkte sind ...
 
-interests:
+Interessen:
   - Artificial Intelligence
   - Medical imaging
 

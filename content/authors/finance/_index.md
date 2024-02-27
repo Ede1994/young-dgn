@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Finanzen
+role: Fachärztin für Nuklearmedizin
 
 # Organizations/Affiliations
 organizations:
