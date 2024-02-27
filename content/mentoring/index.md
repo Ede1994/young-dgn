@@ -13,6 +13,7 @@ sections:
       user_groups:
           - Principal Investigators
           - Homepage
+          - Finanzen
           - Administration
           - Alumni
       sort_by: Params.last_name
