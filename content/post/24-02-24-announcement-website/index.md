@@ -1,6 +1,6 @@
 ---
 title: Ankündigungen - Website
-date: 2024-24-02
+date: 2024-02-24
 image:
   focal_point: 'top'
 ---
