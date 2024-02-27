@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'eric.einspaenner@med.ovgu.de'
+    link: 'mailto:test@example.org'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -54,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'eric.einspaenner@med.ovgu.de'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
