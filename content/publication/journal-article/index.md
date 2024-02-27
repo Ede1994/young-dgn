@@ -1,11 +1,11 @@
 ---
+<<<<<<<< HEAD:content/publication/conference-paper/index.md
 title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Robert Ford
 
 # Author notes (optional)
@@ -15,6 +15,17 @@ author_notes:
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
+========
+title: "An example journal article"
+authors:
+- admin
+- Robert Ford
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
+doi: ""
+>>>>>>>> parent of ffe1df0 (update publications):content/publication/journal-article/index.md
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -40,12 +51,20 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
+<<<<<<<< HEAD:content/publication/conference-paper/index.md
 # - name: Custom Link
 #   url: http://example.org
 
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+========
+# - name: ""
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: ''
+>>>>>>>> parent of ffe1df0 (update publications):content/publication/journal-article/index.md
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -55,8 +74,13 @@ url_video: 'https://youtube.com'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
+<<<<<<<< HEAD:content/publication/conference-paper/index.md
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
+========
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+>>>>>>>> parent of ffe1df0 (update publications):content/publication/journal-article/index.md
   preview_only: false
 
 # Associated Projects (optional).
