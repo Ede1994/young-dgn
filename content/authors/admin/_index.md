@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Meine Forschungsschwerpunkte sind ...
 
-Interessen:
+interests:
   - Artificial Intelligence
   - Medical imaging
 
