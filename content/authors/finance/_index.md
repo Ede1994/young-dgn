@@ -3,8 +3,8 @@
 title: Friederike Eilsberger
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Friederike
+last_name: Eilsberger
 
 # Username (this should match the folder name)
 authors:
@@ -24,7 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Meine Forschungsinteressen sind ...
 
-interests:
+Interessen:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
