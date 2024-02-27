@@ -63,6 +63,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Homepage
+  - Physik
 ---
 
 Eric ist unser persönlicher Programmierer und kümmert sich um unsere Website.
