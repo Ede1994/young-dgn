@@ -10,7 +10,7 @@ last_name: Einspaenner
 superuser: true
 
 # Role/position
-role: Medizinphysiker (MPE)
+role: Medizinphysiker
 
 # Organizations/Affiliations
 organizations:
