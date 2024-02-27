@@ -3,8 +3,8 @@
 title: Friederike Eilsberger
 
 # Full name (for SEO)
-first_name: Friederike
-last_name: Eilsberger
+first_name: Alice
+last_name: Wu
 
 # Username (this should match the folder name)
 authors:
