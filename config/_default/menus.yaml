@@ -14,7 +14,7 @@ main:
     url: people
     weight: 20
   - name: Mentoring
-    url: mentoring
+    url: people
     weight: 30
   - name: Events
     url: event
