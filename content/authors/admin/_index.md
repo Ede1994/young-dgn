@@ -10,7 +10,7 @@ last_name: Einspaenner
 superuser: true
 
 # Role/position
-role: Medizinphysiker
+role: Homepage
 
 # Organizations/Affiliations
 organizations:

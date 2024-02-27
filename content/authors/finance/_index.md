@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Nuklearmedizin
+role: Finanzen
 
 # Organizations/Affiliations
 organizations:
