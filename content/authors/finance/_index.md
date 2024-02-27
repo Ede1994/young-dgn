@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Fachärztin für Nuklearmedizin
+role: Nuklearmedizin
 
 # Organizations/Affiliations
 organizations:
@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'Friederike.Eilsberger@uk-gm.de'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
